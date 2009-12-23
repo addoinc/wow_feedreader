@@ -1,6 +1,6 @@
 Zugslist = AceLibrary("AceAddon-2.0"):new("AceEvent-2.0")
 
-local debug = 0
+local debug = 1
 function Zugslist:OnInitialize()
 end
 
