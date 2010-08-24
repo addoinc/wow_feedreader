@@ -1,6 +1,6 @@
 ## Interface: 30300
-## Title: Zugslist Feedreader
-## Notes: Pulls Tradelinks that were obtained from the zugslist website and shares them with other mods using 
+## Title: wow_feedreader
+## Notes: Pulls Tradelinks that were obtained from a website and shares them with other mods using 
 ## Author: Gautam
 ## SavedVariables: ZLData
 ## Version: 0.1
